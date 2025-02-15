@@ -2,14 +2,18 @@
 
 **`Estudando de Back-End`**
 
-Me chamo Moozer Charles Veiga, tenho 33 anos e sou natural de Teresópolis/Rj. Concluí o ensino médio no CEHS. Cheguei a iniciar o curso superior em Engenharia de Produção pela UNIFESO, porém acabei trancando o mesmo. Atualmente, estou estudando o máximo possível sobre programação.
+Me chamo Moozer Charles Veiga, tenho 33 anos e sou natural de Teresópolis/Rj. Concluí o ensino médio no CEHS. Cheguei a iniciar o curso superior em Engenharia de Produção pela UNIFESO, porém acabei trancando o mesmo.
+Trabalhei por 9 anos e meio em uma grande empresa de Alimentos e Bebidas, o Grupo Petrópolis. Empresa que possui marcas como itaipava, Crystal, Black Princess, TNT... Lá iniciei como operador de produção, chão de fábrica mesmo, e com o tempo, estudo e muita dedicação conseguir ir evoluindo. Fui promovido no meu setor inicial (Envasamento), logo em seguido recebi um novo desafio, ser Analista de Planejamento na Manutenção, em um setor chamado PCM (Planejamento e Controle de Manutenção). Lá atuei como planejador da área de envasamento, planejador da área de produção, adegas, filtração, recebimento de malte, utilidades, ETA/ETDI e todas fazendas da unidade fabril. Logo em seguido fui promovido a programador de manutenção da toda a planta. Atuei como programador durante 5 anos. Desenvolvi muitas melhorias, melhorias essas que estão sendo utilizadas até hoje (sai do GP no ano de 2021). Hoje trabalho no Mercado Financeiro por conta própria (Day Trader) e estou estudando o máximo possível sobre programação.
 
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moozer-cloud)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moozer_charles/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moozer-charles/)
 
 ---
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
