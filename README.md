@@ -1,15 +1,24 @@
 # 👩🏻‍💻 Moozer Charles
-
 **`Estudante de Back-End`**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Me chamo Moozer Charles Veiga, tenho 33 anos e sou natural de Teresópolis/Rj. Concluí o ensino médio no CEHS. Cheguei a iniciar o curso superior em Engenharia de Produção pela UNIFESO, porém acabei trancando o mesmo.
-Trabalhei por 9 anos e meio em uma grande empresa de Alimentos e Bebidas, o Grupo Petrópolis. Empresa que possui marcas como itaipava, Crystal, Black Princess, TNT... Lá iniciei como operador de produção, chão de fábrica mesmo, e com o tempo, estudo e muita dedicação conseguir ir evoluindo. Fui promovido no meu setor inicial (Envasamento), logo em seguido recebi um novo desafio, ser Analista de Planejamento na Manutenção, em um setor chamado PCM (Planejamento e Controle de Manutenção). Lá atuei como planejador da área de envasamento, planejador da área de produção, adegas, filtração, recebimento de malte, utilidades, ETA/ETDI e todas fazendas da unidade fabril. Logo em seguido fui promovido a programador de manutenção da toda a planta. Atuei como programador durante 5 anos. Desenvolvi muitas melhorias, melhorias essas que estão sendo utilizadas até hoje (sai do GP no ano de 2021). Hoje trabalho no Mercado Financeiro por conta própria (Day Trader) e estou estudando o máximo possível sobre programação.
+<p align="left"> 
+  Olá, me chamo Moozer Charles Veiga, tenho 33 anos e sou natural de Teresópolis/Rj. Concluí o ensino médio no CEHS. Cheguei a iniciar o curso superior em Engenharia de Produção pela UNIFESO, porém acabei trancando.
+Trabalhei por 9 anos e meio em uma grande empresa de Alimentos e Bebidas, o Grupo Petrópolis. Empresa que possui marcas como itaipava, Crystal, Black Princess, TNT... Lá iniciei como operador de produção (chão de fábrica mesmo), e com o tempo, estudo e muita dedicação conseguir ir evoluindo. Fui promovido no meu setor inicial (Envasamento), logo em seguido recebi um novo desafio, ser Analista de Planejamento na Manutenção, em um setor chamado PCM (Planejamento e Controle de Manutenção). Lá atuei como planejador da área de envasamento, planejador da área de produção, adegas, filtração, recebimento de malte, utilidades, ETA/ETDI e todas fazendas da unidade fabril. Logo em seguido fui promovido a programador de manutenção da toda a planta. Atuei como programador durante 5 anos. Desenvolvi muitas melhorias, melhorias essas que estão sendo utilizadas até hoje (sai do GP no ano de 2021). Hoje trabalho no Mercado Financeiro por conta própria (Day Trader) e estou estudando o máximo possível sobre programação.
+</p>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moozer-cloud)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moozer_charles/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moozer-charles/)
+
+
+
+ <h1 align="left">Minhas Redes</h1>
+ <a href="https://www.instagram.com/moozer_charles/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://www.linkedin.com/in/moozer-charles/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 
 ---
 
@@ -58,25 +67,25 @@ Trabalhei por 9 anos e meio em uma grande empresa de Alimentos e Bebidas, o Grup
 
 ### 📊 Estatísticas
 
-![Moozer GitHub stats](https://github-readme-stats.vercel.app/api?username=Moozer-cloud&show_icons=true&theme=dark)
+##
+<p align="center">
+<a href="https://github.com/Moozer-cloud">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moozer-cloud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moozer-cloud&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moozer-cloud&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
   />
+</p>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 
