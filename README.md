@@ -81,7 +81,7 @@ Trabalhei por 9 anos e meio em uma grande empresa de Alimentos e Bebidas, o Grup
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/moozer-dev/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
